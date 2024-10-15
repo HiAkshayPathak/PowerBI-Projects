@@ -1,0 +1,38 @@
+		
+
+			---Madhave Enterprises---
+
+
+Commands Used in Power Query:-
+	o Custom Column
+	o Conditional Column
+	o Merge Query
+	o Grouping & Adv Grouping
+	o Some numeric functions
+
+DAX and Commands used in Desktop
+	o Switch
+	o Calculate
+	o Calculate Table
+	o Filter
+	o Countrow
+	o Sum & Count
+	o Distinc Count
+	o Countx
+	o Sumx
+
+
+
+			---SumVsSumx
+
+
+#1 Sum of quantities where product is 'xay'
+#2 Sum of quantities where Cat - 3 and product name is 'tnp'
+#3 Sum of Cost where Cat - 2 product is 'xyz' quantity >=5
+#4 Sum of Cost where Cat - 3 product is 'rgb' cost itself > 100
+#5 Total Selling Price where Cat - 3 product is 'rgb' cost itself > 100
+
+
+
+
+	
